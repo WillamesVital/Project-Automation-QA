@@ -28,7 +28,7 @@ Qualquer um pode dar dicas e revisar os códigos uns dos outros, afinal esse pro
 2. Dentro da pasta Cypress temos 3 pastas, e2e, fixtures e support.  
    a) e2e = Pasta onde fica os arquivos de testes.  
    b) fixtures =  Armazena dados de exemplo (fixtures) que podem ser usados nos testes.  
-   c) Contém arquivos de suporte e comandos personalizados.
+   c) support = Contém arquivos de suporte e comandos personalizados.  
    d) cypress.config.js = Este arquivo permite personalizar várias configurações do Cypress, como a URL base, timeouts, e outras opções de configuração. Você pode adicionar várias opções de configuração conforme necessário para o seu projeto.
 
 
